@@ -181,7 +181,7 @@ android {
         nsclient {
             applicationId "info.nightscout.nsclient"
             dimension "standard"
-            resValue "string", "app_name", "NSClient"
+            resValue "string", "app_name", "Omnipod Hedda NSC"
             versionName version + "-nsclient"
             manifestPlaceholders = [
                     appIcon     : "@mipmap/ic_yellowowl",
