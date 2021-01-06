@@ -553,10 +553,10 @@
     <string name="key_ns_noupload" translatable="false">ns_noupload</string>
     <string name="overview_extendedbolus_cancel_button">Cancel Extended Bolus</string>
     <string name="doprofileswitch">Do Profile Switch</string>
-    <string name="careportal_sensor_label">Sensor</string>
-    <string name="careportal_canula_label">Canula</string>
+    <string name="careportal_sensor_label">Dexcom Sensor</string>
+    <string name="careportal_canula_label">Pod</string>
     <string name="careportal_insulin_label">Insulin</string>
-    <string name="careportal_pb_label">Pump battery</string>
+    <string name="careportal_pb_label">Dexcom Transmitter</string>
     <string name="careportal_age_label">age:</string>
     <string name="careportal_level_label">level:</string>
     <string name="ns_alarmoptions">Alarm options</string>
